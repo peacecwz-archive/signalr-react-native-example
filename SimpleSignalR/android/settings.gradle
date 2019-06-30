@@ -1,0 +1,3 @@
+rootProject.name = 'SimpleSignalR'
+
+include ':app'

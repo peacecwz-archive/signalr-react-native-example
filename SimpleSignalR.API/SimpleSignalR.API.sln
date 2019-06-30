@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AFE0D588-6D64-4F1A-BB69-6C428072475D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSignalR.API", "src\SimpleSignalR.API\SimpleSignalR.API.csproj", "{847E9AB2-5554-4659-ACC0-1809DE8CB286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{847E9AB2-5554-4659-ACC0-1809DE8CB286} = {AFE0D588-6D64-4F1A-BB69-6C428072475D}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847E9AB2-5554-4659-ACC0-1809DE8CB286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847E9AB2-5554-4659-ACC0-1809DE8CB286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847E9AB2-5554-4659-ACC0-1809DE8CB286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847E9AB2-5554-4659-ACC0-1809DE8CB286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
